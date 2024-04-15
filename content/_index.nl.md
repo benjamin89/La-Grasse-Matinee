@@ -1,8 +1,13 @@
-+++
-title = 'Welkom bij La Grasse Matinee'
-date = 2024-04-15T13:43:46+02:00
-draft = false
-+++
+---
+date: 2024-02-02T04:14:54-08:00
+draft: false
+params:
+  author: John Smith
+title: Welkom bij La Grasse Matinée
+weight: 10
+text_color: dark-gray
+---
+
 
 Op vakantie in de volledige rust met prachtige dorpjes, rivieren en kastelen en de mooiste wandel- en fietsroutes?
 Of gewoon op doorreis?  

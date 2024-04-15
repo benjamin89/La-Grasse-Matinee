@@ -1,8 +1,12 @@
-+++
-title = 'Bienvenue à La Grasse Matinée'
-date = 2024-04-15T13:43:46+02:00
-draft = false
-+++
+---
+date: 2024-02-02T04:14:54-08:00
+draft: false
+params:
+  author: John Smith
+title: Bienvenue à La Grasse Matinée
+weight: 10
+text_color: dark-gray
+---
 
 En vacances en toute tranquillité avec de beaux villages, rivières et châteaux et les plus beaux itinéraires pédestres et cyclables ?  
 Ou simplement de passage ?  
