@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on La Grasse Matinée</title>
+    <link>http://localhost:1313/en/about/</link>
+    <description>Recent content in Abouts on La Grasse Matinée</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 15 Apr 2024 13:43:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to La Grasse Matinée</title>
+      <link>http://localhost:1313/en/about/about/</link>
+      <pubDate>Mon, 15 Apr 2024 13:43:46 +0200</pubDate>
+      <guid>http://localhost:1313/en/about/about/</guid>
+      <description>Are you looking for a holiday in complete peace with beautiful villages, rivers and castles and the most beautiful hiking and cycling routes? Or just passing through?&#xA;La Grasse Matinée is located in the north of the Puy-de-Dôme, a hilly area in the green heart of France, 700km from Brussels.&#xA;La Grasse Matinée is equipped with TV, fridge, gas fire, microwave, kettle, towels and sheets.&#xA;Private garden, parking and (limited) WiFi available.</description>
+    </item>
+  </channel>
+</rss>

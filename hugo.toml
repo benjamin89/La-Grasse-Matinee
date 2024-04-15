@@ -1,4 +1,30 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'La Grasse Matinee'
+defaultContentLanguage = 'nl'
+title = 'La Grasse Matinée'
 theme = 'ananke'
+
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = 'en-GB'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'La Grasse Matinée'
+    weight = 10
+  [languages.nl]
+    disabled = false
+    languageCode = 'nl-BE'
+    languageDirection = 'ltr'
+    languageName = 'Nederlands'
+    title = 'La Grasse Matinée'
+    weight = 30
+  [languages.fr]
+    disabled = false
+    languageCode = 'fr-FR'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    title = 'La Grasse Matinée'
+    weight = 20
+    
+[markup.goldmark.renderer]
+unsafe= true

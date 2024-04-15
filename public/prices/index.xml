@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prices on La Grasse Matinée</title>
+    <link>http://localhost:1313/prices/</link>
+    <description>Recent content in Prices on La Grasse Matinée</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 15 Apr 2024 15:40:09 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/prices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prices</title>
+      <link>http://localhost:1313/prices/prices/</link>
+      <pubDate>Mon, 15 Apr 2024 15:40:09 +0200</pubDate>
+      <guid>http://localhost:1313/prices/prices/</guid>
+      <description>Prices: Weekend (3 nights) Thursday 4pm - Sunday 10am&#xA;Low season 1 October - 31 May: 130€&#xA;Peak season 1 June - 30 September: 160€&#xA;Midweek (4 nights) Sunday 4 pm - Thursday 10 am&#xA;Low season: 150€&#xA;Peak season: 190€&#xA;Week (7 nights) Sunday 4 pm - Sunday 10 am&#xA;Low season: 245€&#xA;Peak season: 300€&#xA;Per night Low season: 55€/night&#xA;Peak season: 65€/night&#xA;Breakfast: 10€/person&#xA;Dinner is available</description>
+    </item>
+  </channel>
+</rss>

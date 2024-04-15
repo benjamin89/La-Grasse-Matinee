@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on La Grasse Matinée</title>
+    <link>http://localhost:1313/nl/about/</link>
+    <description>Recent content in Abouts on La Grasse Matinée</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-BE</language>
+    <lastBuildDate>Mon, 15 Apr 2024 15:45:11 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/nl/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welkom bij La Grasse Matinee</title>
+      <link>http://localhost:1313/nl/about/about/</link>
+      <pubDate>Mon, 15 Apr 2024 15:45:11 +0200</pubDate>
+      <guid>http://localhost:1313/nl/about/about/</guid>
+      <description>Op vakantie in de volledige rust met prachtige dorpjes, rivieren en kastelen en de mooiste wandel- en fietsroutes?&#xA;Of gewoon op doorreis?&#xA;La Grasse Matinée ligt in het noorden van de Puy-de-Dôme, een heuvelachtig gebied in het groene hart van Frankrijk, 700km van Brussel.&#xA;La Grasse Matinée is ingericht met tv, frigo, gasvuur, microgolf, waterkoker, handdoeken en lakens. Privétuin, parking en (beperkte) WiFi beschikbaar.&#xA;Geen huisdieren toegestaan.&#xA;Max 2 personen.</description>
+    </item>
+  </channel>
+</rss>
