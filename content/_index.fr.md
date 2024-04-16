@@ -6,6 +6,7 @@ params:
 title: Bienvenue à La Grasse Matinée
 weight: 10
 text_color: dark-gray
+featured_image: '/images/logo.jpg'
 ---
 
 En vacances en toute tranquillité avec de beaux villages, rivières et châteaux et les plus beaux itinéraires pédestres et cyclables ?  

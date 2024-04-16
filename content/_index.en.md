@@ -6,6 +6,7 @@ params:
 title: Welcome to La Grasse Matinée
 weight: 10
 text_color: dark-gray
+featured_image: '/images/logo.jpg'
 ---
 
 Are you looking to holiday in complete tranquility with beautiful villages, rivers and castles and the most beautiful walking and cycling routes?  

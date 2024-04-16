@@ -6,6 +6,7 @@ params:
 title: Welkom bij La Grasse Matinée
 weight: 10
 text_color: dark-gray
+featured_image: '/images/logo.jpg'
 ---
 
 
@@ -54,5 +55,5 @@ La Grasse Matinée
 
 ***
 
-### Availibility
+### Beschikbaarheid
 {{< calendar_iframe >}}
